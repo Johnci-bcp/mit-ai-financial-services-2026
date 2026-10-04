@@ -1,6 +1,6 @@
 # IA aplicada a servicios financieros — Materiales del curso
 
-Repositorio personal de **John Caballero** con las seis presentaciones del programa **Artificial Intelligence for Financial Services: Tools, Opportunities, and Challenges**, de MIT Sloan Executive Education, realizado en Cambridge el 23 y 24 de julio de 2026.
+Repositorio personal de **John Caballero** con las seis presentaciones del programa **Artificial Intelligence for Financial Services: Tools, Opportunities, and Challenges**, de MIT Sloan Executive Education, realizado en Cambridge en julio de 2026.
 
 Los materiales acompañan una reflexión sobre las posibilidades del *agentic coding*, la colaboración entre personas y agentes de IA, y su aplicación en ciencia de datos y riesgos.
 
